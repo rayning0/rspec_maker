@@ -9,8 +9,8 @@ Tired of making standard RSpec test files for yourself, when they usually follow
 
 You may change the input data file and output directory paths:
 
-<p>INPUT_FILE = '../data/rspec_maker_input.txt'</p>
-<p>OUTPUT_DIR = '../spec/'</p>
+>INPUT_FILE = '../data/rspec_maker_input.txt'
+>OUTPUT_DIR = '../spec/'
 
 ## Data file
 
@@ -24,17 +24,17 @@ It's for a program that converts integers to and from Roman numbers.
 
 Date file format:
 
-<p>File name (Assume 1 file per class. It's your Ruby code in /lib)</p>
-<p>Class name</p>
-<p>* (1 star)</p>
-<p>Method name 1</p>
-<p>All inputs (on separate lines)</p>
-<p>(blank line)</p>
-<p>All expected outputs (separate lines)</p>
-<p>* (1 star)</p>
-<p>Method name 2</p>
-<p>etc........</p>
-<p>= (end of file)</p>
+>File name (Assume 1 file per class. It's your Ruby code in /lib)
+>Class name
+>* (1 star)
+>Method name 1
+>All inputs (on separate lines)
+>(blank line)
+>All expected outputs (separate lines)
+>* (1 star)
+>Method name 2
+>etc........
+>= (end of file)
 
 ## Output test file
 
@@ -50,10 +50,10 @@ Your main Ruby code goes in /lib, RSpec test files go in /spec, and input data g
 
 ## See my original Roman number conversion programs:
 
-<p>https://github.com/rayning0/rubyquiz/blob/master/lib/022_roman_numbers.rb</p>
-<p>https://github.com/rayning0/rubyquiz/blob/master/spec/022_roman_numbers_spec.rb</p>
-<p>https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_input.txt</p>
-<p>https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_output.txt</p>
+-https://github.com/rayning0/rubyquiz/blob/master/lib/022_roman_numbers.rb
+-https://github.com/rayning0/rubyquiz/blob/master/spec/022_roman_numbers_spec.rb
+-https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_input.txt
+-https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_output.txt
 
 Please say hi to me and give me comments/suggestions for improvement!
 
