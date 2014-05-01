@@ -1,6 +1,3 @@
-# Automatically created by rspec_maker.rb, from
-# data in ./data/rspec_maker_input.txt
-
 require 'spec_helper'
 require 'roman_numbers'
 
