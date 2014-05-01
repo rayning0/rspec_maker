@@ -30,7 +30,7 @@ See sample data input file: https://github.com/rayning0/rspec_maker/blob/master/
 
 It's for a program that converts integers to and from Roman numbers.
 
-Date file format:
+Data file format: (__use quotes around string data__)
 
 ```
 File name (Assume 1 file per class. It's your Ruby code in /lib)
