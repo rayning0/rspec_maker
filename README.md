@@ -50,12 +50,12 @@ Your main Ruby code goes in /lib, RSpec test files go in /spec, and input data g
 
 ## See my original Roman number conversion programs:
 
- ...https://github.com/rayning0/rubyquiz/blob/master/lib/022_roman_numbers.rb
- ...https://github.com/rayning0/rubyquiz/blob/master/spec/022_roman_numbers_spec.rb
- ...https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_input.txt
- ...https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_output.txt
+ + https://github.com/rayning0/rubyquiz/blob/master/lib/022_roman_numbers.rb
+ + https://github.com/rayning0/rubyquiz/blob/master/spec/022_roman_numbers_spec.rb
+ + https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_input.txt
+ + https://github.com/rayning0/rubyquiz/blob/master/data/roman_number_output.txt
 
 Please say hi to me and give me comments/suggestions for improvement!
 
- ...By Raymond Gan (rayning@gmail.com)
- ...https://twitter.com/rgan0
+ + By Raymond Gan (rayning@gmail.com)
+ + https://twitter.com/rgan0
