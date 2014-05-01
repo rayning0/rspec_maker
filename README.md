@@ -7,6 +7,8 @@ Tired of making standard RSpec test files for yourself, when they usually follow
 
 /lib/rspec_maker.rb
 
+https://github.com/rayning0/rspec_maker/blob/master/lib/rspec_maker.rb
+
 You may change the input data file and output directory paths:
 
 ```
