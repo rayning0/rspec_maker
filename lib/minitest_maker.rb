@@ -114,7 +114,7 @@ class MinitestMaker
     output_file = "#{OUTPUT_DIR_UNIT}#{filename}_test.rb"
     File.open(output_file, 'w') # overwrites old file
     File.open(output_file, 'a') do |f|
-      f.puts "require 'minitest/autorun'"
+      f.puts "require 'minitest_helper'"
       f.puts "require_relative '../lib/#{filename}'"
       f.puts
       f.puts "class Test#{classname} < Minitest::Test"

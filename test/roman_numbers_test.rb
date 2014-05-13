@@ -1,4 +1,4 @@
-require 'minitest/autorun'
+require 'minitest_helper'
 require_relative '../lib/roman_numbers'
 
 class TestRomanNumbers < Minitest::Test

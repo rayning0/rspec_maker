@@ -1,4 +1,4 @@
-require "minitest/autorun"
+require "spec_helper"
 require_relative '../lib/meme'
 
 describe Meme do

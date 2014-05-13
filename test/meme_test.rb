@@ -1,4 +1,4 @@
-require "minitest/autorun"
+require 'minitest_helper'
 require_relative '../lib/meme'
 
 class TestMeme < Minitest::Test
